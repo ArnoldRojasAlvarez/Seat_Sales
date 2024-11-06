@@ -1,0 +1,10 @@
+C:\Users\Yorleny\Desktop\Escritorio\Programacion\Lenguajes\ProyectoFinal\Seat_Sales\Cargo-App\Cargo\target\debug\deps\libactix_rt-99c0326ff8631d31.rmeta: C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\lib.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\arbiter.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\runtime.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\system.rs
+
+C:\Users\Yorleny\Desktop\Escritorio\Programacion\Lenguajes\ProyectoFinal\Seat_Sales\Cargo-App\Cargo\target\debug\deps\libactix_rt-99c0326ff8631d31.rlib: C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\lib.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\arbiter.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\runtime.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\system.rs
+
+C:\Users\Yorleny\Desktop\Escritorio\Programacion\Lenguajes\ProyectoFinal\Seat_Sales\Cargo-App\Cargo\target\debug\deps\actix_rt-99c0326ff8631d31.d: C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\lib.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\arbiter.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\runtime.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\system.rs
+
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\lib.rs:
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\arbiter.rs:
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\runtime.rs:
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-rt-2.10.0\src\system.rs:

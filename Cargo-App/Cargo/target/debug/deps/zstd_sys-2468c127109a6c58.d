@@ -1,0 +1,9 @@
+C:\Users\Yorleny\Desktop\Escritorio\Programacion\Lenguajes\ProyectoFinal\Seat_Sales\Cargo-App\Cargo\target\debug\deps\libzstd_sys-2468c127109a6c58.rmeta: C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\lib.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zstd.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zdict.rs
+
+C:\Users\Yorleny\Desktop\Escritorio\Programacion\Lenguajes\ProyectoFinal\Seat_Sales\Cargo-App\Cargo\target\debug\deps\libzstd_sys-2468c127109a6c58.rlib: C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\lib.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zstd.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zdict.rs
+
+C:\Users\Yorleny\Desktop\Escritorio\Programacion\Lenguajes\ProyectoFinal\Seat_Sales\Cargo-App\Cargo\target\debug\deps\zstd_sys-2468c127109a6c58.d: C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\lib.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zstd.rs C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zdict.rs
+
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\lib.rs:
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zstd.rs:
+C:\Users\Yorleny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\zstd-sys-2.0.13+zstd.1.5.6\src\bindings_zdict.rs:
