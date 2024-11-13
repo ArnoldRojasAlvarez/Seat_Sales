@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import './SeatReservation.css';
 
 function SeatReservation() {
   interface Seat {
@@ -19,12 +20,9 @@ function SeatReservation() {
       }
       const data = await response.json();
 
-      // Aplanar la estructura anidada de asientos para facilitar el renderizado
       const allSeats: Seat[] = [];
-
       data.categories.forEach((category: any) => {
         category.zones.forEach((zone: any) => {
-          // Procesar asientos en la sección VIP
           zone.Vip.seats.forEach((seat: any) => {
             allSeats.push({
               zone: zone.name,
@@ -34,7 +32,6 @@ function SeatReservation() {
               vision_percentage: seat.vision_percentage,
             });
           });
-          // Procesar asientos en la sección General
           zone.General.seats.forEach((seat: any) => {
             allSeats.push({
               zone: zone.name,
@@ -50,26 +47,25 @@ function SeatReservation() {
       setSeats(allSeats);
     } catch (error) {
       console.error('Error al obtener asientos:', error);
-      setSeats([]); // Establece un array vacío en caso de error
+      setSeats([]);
     }
   };
 
-  // Llama a la función fetchSeats cuando el componente se monta
   useEffect(() => {
     fetchSeats();
   }, []);
 
   return (
-    <div>
+    <div className="stadium">
       <h1>Reserva de Asientos</h1>
-      <div>
+      <div className="seating-map">
         {seats.map((seat, index) => (
-          <div key={index}>
-            <strong>Zona:</strong> {seat.zone}, 
-            <strong> Número:</strong> {seat.number}, 
-            <strong> Estado:</strong> {seat.status}, 
-            <strong> Tipo:</strong> {seat.type}, 
-            <strong> Porcentaje de Visión:</strong> {seat.vision_percentage}%
+          <div
+            key={index}
+            className={`seat ${seat.type.toLowerCase()} ${seat.status.toLowerCase()}`}
+            title={`Zona: ${seat.zone} | Número: ${seat.number} | Estado: ${seat.status} | Tipo: ${seat.type} | Visión: ${seat.vision_percentage}%`}
+          >
+            {seat.number}
           </div>
         ))}
       </div>

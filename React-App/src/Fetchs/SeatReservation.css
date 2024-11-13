@@ -1,0 +1,41 @@
+.stadium {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.seating-map {
+  display: grid;
+  grid-template-columns: repeat(10, 50px); /* Ajusta el número de columnas según el diseño deseado */
+  gap: 5px;
+}
+
+.seat {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Colores para los asientos según el estado */
+.seat.free {
+  background-color: #9e9e9e; /* Gris o blanco para asientos libres */
+}
+
+.seat.reserved {
+  background-color: #ffa500; /* Naranja para asientos reservados */
+}
+
+.seat.purchased {
+  background-color: #ff4d4d; /* Rojo para asientos comprados */
+}
+
+/* Estilos adicionales para los tipos de asiento */
+.seat.vip {
+  font-weight: bold; /* Resaltar los asientos VIP */
+}
